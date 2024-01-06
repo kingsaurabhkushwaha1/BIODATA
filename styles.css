@@ -1,0 +1,76 @@
+/* Updated CSS Styles */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  header h1 {
+    font-size: 3em;
+    color: #e91e63;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    color: #888;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  section h2 {
+    font-size: 2em;
+    color: #e91e63;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    font-size: 1.2em;
+    margin-bottom: 12px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #888;
+  }
+  
+  footer p {
+    font-size: 1em;
+  }
+  /* Updated CSS Styles */
+
+/* Additional style for the Ganesha image */
+.ganesh-img {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust the size as needed */
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
